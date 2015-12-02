@@ -26,8 +26,8 @@ public class MainActivity extends AppCompatActivity {
     private final int[] images = {R.drawable.a, R.drawable.b, R.drawable.c,
             R.drawable.d, R.drawable.e};
     // 图片标题集合
-    private final String[] imageDescriptions = {"第一张图片",
-            "第二张图片", "第三张图片", "第四张图片", "第五张图片"};
+    private final String[] imageDescriptions = {"1",
+            "2", "3", "4", "5"};
 
     private ArrayList<ImageView> imageList;
     // 上一个页面的位置
